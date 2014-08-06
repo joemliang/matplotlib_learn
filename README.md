@@ -1,4 +1,4 @@
-matplotlib_learn
+Matplotlib Learn
 ==========
 
 ### This repository contains me learning matplotlib package of Python.
