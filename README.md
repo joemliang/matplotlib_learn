@@ -1,11 +1,11 @@
 matplotlib_learn
 ==========
 
-This repository contains me learning matplotlib package of Python.
----
+## This repository contains me learning matplotlib package of Python.
 
-Here I use IPython Notebook. A static view can be reached by the following link:
----
+
+## Here I use IPython Notebook. A static view can be reached by the following link:
+
 * **[matplotlib_simple_plot](http://nbviewer.ipython.org/github/joemliang/matplotlib_learn/blob/master/matplotlib_simple_plot.ipynb)**
 The tutorial for which is from http://mple.m-artwork.eu/tutorial
 
